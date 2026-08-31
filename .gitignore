@@ -1,0 +1,32 @@
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+*.pem
+*.key
+
+# Flutter / Dart
+**/build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+*.g.dart
+
+# ASP.NET
+bin/
+obj/
+*.user
+*.suo
+
+# Supabase local
+.supabase/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
