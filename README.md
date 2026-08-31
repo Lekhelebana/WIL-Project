@@ -8,7 +8,7 @@ A Work-Integrated Learning (WIL) project for ITC327W, developed for Nama Nameng,
  Name - Student Number 
  Neo Lekhelebana - 221000484 
  Charmaine Mogotsi - 221023182 
- Portia Nkotseng Sefatsa - 220007164 
+ Portia Sefatsa - 220007164 
  Tshepang Morake - 222075924 
  Hlayiseka Matsimbi - 221027400 
 
