@@ -11,6 +11,7 @@ A Work-Integrated Learning (WIL) project for ITC327W, developed for Nama Nameng,
  Portia Sefatsa - 220007164 
  Tshepang Morake - 222075924 
  Hlayiseka Matsimbi - 221027400 
+ Lesedi Ramolahloane - 219015068
 
 External Stakeholder: Doja — Nama Nameng
 
